@@ -1,0 +1,3 @@
+TestBundle_homepage:
+    pattern:  /test/{name}/{sex}
+    defaults: { _controller: TestBundle:Default:index }
